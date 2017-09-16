@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "447232275433",
+    "firebase_url": "https://cohesive-armor-135023.firebaseio.com",
+    "project_id": "cohesive-armor-135023",
+    "storage_bucket": "cohesive-armor-135023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447232275433:android:ed4beb39a7b3682f",
+        "android_client_info": {
+          "package_name": "id.rakawm.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447232275433-5tlijqh6qgb10sjtplethlb4mamf653p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrk0KqJrmlfMHJLGPLkKhvYezMPXWWFg"
+        },
+        {
+          "current_key": "AIzaSyDZiy0Ro9pgR0TlR94D9mRCMkUkv_gBpzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447232275433:android:0b7627ca86790075",
+        "android_client_info": {
+          "package_name": "com.concord_consulting.aurora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447232275433-5tlijqh6qgb10sjtplethlb4mamf653p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrk0KqJrmlfMHJLGPLkKhvYezMPXWWFg"
+        },
+        {
+          "current_key": "AIzaSyDZiy0Ro9pgR0TlR94D9mRCMkUkv_gBpzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447232275433:android:0dd446b78b4b882f",
+        "android_client_info": {
+          "package_name": "id.rakawm.prism_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447232275433-5tlijqh6qgb10sjtplethlb4mamf653p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrk0KqJrmlfMHJLGPLkKhvYezMPXWWFg"
+        },
+        {
+          "current_key": "AIzaSyDZiy0Ro9pgR0TlR94D9mRCMkUkv_gBpzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
